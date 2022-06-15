@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+.btn-primary {
+    background-color: rgb(10, 61, 102);
+}
+
+.done{
+    text-decoration: line-through;
+}
